@@ -1,0 +1,6 @@
+{
+  "item.testmod.bronze_ingot": "Bronze Ingot",
+  "item.testmod.raw_tin": "Raw Tin",
+  "item.testmod.tin_ore": "Tin Ore",
+  "itemgroup.testmod.bronze_ingot_items": "Test Mod Items"
+}

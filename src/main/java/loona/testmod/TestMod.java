@@ -1,5 +1,8 @@
 package loona.testmod;
 
+import loona.testmod.block.ModBlocks;
+import loona.testmod.item.ModItemGroups;
+import loona.testmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -14,5 +17,8 @@ public class TestMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
+		ModItems.registerModItems();
+		ModItemGroups.registerItemGroups();
+		ModBlocks.registerModBlocks();
 	}
 }
