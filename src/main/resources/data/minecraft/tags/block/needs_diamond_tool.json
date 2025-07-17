@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "testmod:tin_ore",
     "testmod:high_iron_ore"
   ]
 }

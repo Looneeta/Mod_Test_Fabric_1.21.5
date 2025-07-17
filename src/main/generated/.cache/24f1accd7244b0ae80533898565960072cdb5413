@@ -1,0 +1,17 @@
+// 1.21.5	-999999999-01-01T00:00:00	Test Mod/Model Definitions
+6dd42ac9d6174b8badab62fecd3e37c5aa375950 assets/testmod/items/bronze_axe.json
+988eada4ade259bad7171d35d23ebedef437092c assets/testmod/items/bronze_how.json
+6c1d595e239b70418006155c7d11099bbd33f34a assets/testmod/items/bronze_pickaxe.json
+32f7d69cfde20638fc1fe7bad219a53357371796 assets/testmod/items/bronze_shovel.json
+4b6243765e17f2793ec32ca8703af922bb567f0a assets/testmod/items/bronze_sword.json
+46e4d76d45c863c37948e0c8200b06c4c01bed7d assets/testmod/items/high_steel_ingot.json
+df971fa38bcaece8d656f8982e3c712fed8d5eb4 assets/testmod/items/steel_ingot.json
+47d9647bff83d27fb2ba6bf81096ffb4ec805d1e assets/testmod/items/tin_ingot.json
+95eee8989ae92b545c3cddfff90a11cc4870fec7 assets/testmod/models/item/bronze_axe.json
+fbe89c46d1d7b4a100b632ca17d1b0f75b1ed4c6 assets/testmod/models/item/bronze_how.json
+dcf98656040519260b0e166f92a93f7417378c58 assets/testmod/models/item/bronze_pickaxe.json
+ff51a56e3d08f668c37de0554ae5ed65507d770e assets/testmod/models/item/bronze_shovel.json
+493a4090e9e6e1f705ebd5a3443badfa6ebb2b0a assets/testmod/models/item/bronze_sword.json
+cbbb87665e728dcc1c5ef4ae30f6533de5d1c79c assets/testmod/models/item/high_steel_ingot.json
+60459fb19b4ff22b943c55d1367063f94d2f37c1 assets/testmod/models/item/steel_ingot.json
+a4d343e11a8d40914ef65c8c589b59de45672f83 assets/testmod/models/item/tin_ingot.json

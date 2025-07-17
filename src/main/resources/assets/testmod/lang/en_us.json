@@ -1,6 +1,17 @@
 {
   "item.testmod.bronze_ingot": "Bronze Ingot",
-  "item.testmod.raw_tin": "Raw Tin",
+  "item.testmod.bronze_sword": "Bronze Sword",
+  "item.testmod.bronze_pickaxe": "Bronze Pickaxe",
+  "item.testmod.bronze_axe": "Bronze Axe",
+  "item.testmod.bronze_shovel": "Bronze Shovel",
+  "item.testmod.bronze_hoe": "Bronze Hoe",
   "item.testmod.tin_ore": "Tin Ore",
+  "item.testmod.raw_tin": "Raw Tin",
+  "item.testmod.tin_ingot": "Tin Ingot",
+  "item.testmod.steel_ingot": "Steel Ingot",
+  "item.testmod.high_iron_ore": "High Iron Ore",
+  "item.testmod.raw_high_iron": "Raw High Iron",
+  "item.testmod.high_steel_ingot": "High Steel Ingot",
+
   "itemgroup.testmod.bronze_ingot_items": "Test Mod Items"
 }

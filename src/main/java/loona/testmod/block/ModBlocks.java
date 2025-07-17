@@ -20,6 +20,13 @@ public class ModBlocks {
                     .requiresTool()
                     .sounds(BlockSoundGroup.STONE));
 
+    public static final Block HIGH_IRON_ORE = registerBlock("high_iron_ore",
+            AbstractBlock.Settings.create()
+                    .strength(3f)
+                    .requiresTool()
+                    .sounds(BlockSoundGroup.STONE));
+
+
     private static Block registerBlock(String name, AbstractBlock.Settings blockSettings) {
 
         RegistryKey<Block> key = RegistryKey.of(RegistryKeys.BLOCK, Identifier.of(TestMod.MOD_ID, name));

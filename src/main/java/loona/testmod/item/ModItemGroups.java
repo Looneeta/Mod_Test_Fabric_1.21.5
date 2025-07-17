@@ -19,8 +19,19 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.testmod.bronze_ingot_items"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.BRONZE_INGOT);
+                        entries.add(ModItems.BRONZE_SWORD);
+                        entries.add(ModItems.BRONZE_PICKAXE);
+                        entries.add(ModItems.BRONZE_AXE);
+                        entries.add(ModItems.BRONZE_SHOVEL);
+                        entries.add(ModItems.BRONZE_HOE);
                         entries.add(ModBlocks.TIN_ORE);
                         entries.add(ModItems.RAW_TIN);
+                        entries.add(ModItems.TIN_INGOT);
+                        entries.add(ModItems.STEEL_INGOT);
+                        entries.add(ModBlocks.HIGH_IRON_ORE);
+                        entries.add(ModItems.RAW_HIGH_IRON);
+                        entries.add(ModItems.HIGH_STEEL_INGOT);
+
                     })
 
                     .build());
