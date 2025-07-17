@@ -20,10 +20,19 @@ public class ModItems {
     public static final Item TIN_INGOT = registerItem("tin_ingot", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"tin_ingot")))));
 
     public static final Item STEEL_INGOT = registerItem("steel_ingot", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"steel_ingot")))));
+    public static final Item STEEL_PICKAXE = registerItem("steel_pickaxe", new Item(new Item.Settings().pickaxe(ModToolMaterials.STEEL_TOOL_MATERIAL, 1.0f, -2.8f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"steel_pickaxe")))));
+    public static final Item STEEL_SWORD = registerItem("steel_sword", new Item(new Item.Settings().sword(ModToolMaterials.STEEL_TOOL_MATERIAL, 3.0f, -2.4f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"steel_sword")))));
+    public static final Item STEEL_AXE = registerItem("steel_axe", new Item(new Item.Settings().axe(ModToolMaterials.STEEL_TOOL_MATERIAL, 6.0f, -3.1f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"steel_axe")))));
+    public static final Item STEEL_SHOVEL = registerItem("steel_shovel", new Item(new Item.Settings().shovel(ModToolMaterials.STEEL_TOOL_MATERIAL, 1.5f, -3.0f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"steel_shovel")))));
+    public static final Item STEEL_HOE = registerItem("steel_hoe", new Item(new Item.Settings().hoe(ModToolMaterials.STEEL_TOOL_MATERIAL, -2.0f, -1.0f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"steel_hoe")))));
 
     public static final Item RAW_HIGH_IRON = registerItem("raw_high_iron", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"raw_high_iron")))));
     public static final Item HIGH_STEEL_INGOT = registerItem("high_steel_ingot", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"high_steel_ingot")))));
-
+    public static final Item HIGH_STEEL_PICKAXE = registerItem("high_steel_pickaxe", new Item(new Item.Settings().pickaxe(ModToolMaterials.HIGH_STEEL_TOOL_MATERIAL, 1.0f, -2.8f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"high_steel_pickaxe")))));
+    public static final Item HIGH_STEEL_SWORD = registerItem("high_steel_sword", new Item(new Item.Settings().sword(ModToolMaterials.HIGH_STEEL_TOOL_MATERIAL, 3.0f, -2.4f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"high_steel_sword")))));
+    public static final Item HIGH_STEEL_AXE = registerItem("high_steel_axe", new Item(new Item.Settings().axe(ModToolMaterials.HIGH_STEEL_TOOL_MATERIAL, 6.0f, -3.1f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"high_steel_axe")))));
+    public static final Item HIGH_STEEL_SHOVEL = registerItem("high_steel_shovel", new Item(new Item.Settings().shovel(ModToolMaterials.HIGH_STEEL_TOOL_MATERIAL, 1.5f, -3.0f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"high_steel_shovel")))));
+    public static final Item HIGH_STEEL_HOE = registerItem("high_steel_hoe", new Item(new Item.Settings().hoe(ModToolMaterials.HIGH_STEEL_TOOL_MATERIAL, -2.0f, -1.0f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"high_steel_hoe")))));
 
     public static final Item BRONZE_PICKAXE = registerItem("bronze_pickaxe", new Item(new Item.Settings().pickaxe(ModToolMaterials.BRONZE_TOOL_MATERIAL, 0.0f, -2.8f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"bronze_pickaxe")))));
     public static final Item BRONZE_SWORD = registerItem("bronze_sword", new Item(new Item.Settings().sword(ModToolMaterials.BRONZE_TOOL_MATERIAL, 2.0f, -2.4f).registryKey(RegistryKey.of(RegistryKeys.ITEM,Identifier.of(TestMod.MOD_ID,"bronze_sword")))));

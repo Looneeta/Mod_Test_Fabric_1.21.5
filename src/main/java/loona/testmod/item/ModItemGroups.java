@@ -28,9 +28,19 @@ public class ModItemGroups {
                         entries.add(ModItems.RAW_TIN);
                         entries.add(ModItems.TIN_INGOT);
                         entries.add(ModItems.STEEL_INGOT);
+                        entries.add(ModItems.STEEL_SWORD);
+                        entries.add(ModItems.STEEL_PICKAXE);
+                        entries.add(ModItems.STEEL_AXE);
+                        entries.add(ModItems.STEEL_SHOVEL);
+                        entries.add(ModItems.STEEL_HOE);
                         entries.add(ModBlocks.HIGH_IRON_ORE);
                         entries.add(ModItems.RAW_HIGH_IRON);
                         entries.add(ModItems.HIGH_STEEL_INGOT);
+                        entries.add(ModItems.HIGH_STEEL_SWORD);
+                        entries.add(ModItems.HIGH_STEEL_PICKAXE);
+                        entries.add(ModItems.HIGH_STEEL_AXE);
+                        entries.add(ModItems.HIGH_STEEL_SHOVEL);
+                        entries.add(ModItems.HIGH_STEEL_HOE);
 
                     })
 

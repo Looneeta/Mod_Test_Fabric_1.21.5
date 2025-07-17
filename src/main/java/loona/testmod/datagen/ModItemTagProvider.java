@@ -25,6 +25,12 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
 
         getOrCreateTagBuilder(ModTags.Items.BRONZE_REPAIR)
                 .add(ModItems.BRONZE_INGOT);
+
+        getOrCreateTagBuilder(ModTags.Items.STEEL_REPAIR)
+                .add(ModItems.STEEL_INGOT);
+
+        getOrCreateTagBuilder(ModTags.Items.HIGH_STEEL_REPAIR)
+                .add(ModItems.HIGH_STEEL_INGOT);
     }
 }
 

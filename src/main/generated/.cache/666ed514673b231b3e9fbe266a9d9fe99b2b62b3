@@ -1,2 +1,4 @@
 // 1.21.5	-999999999-01-01T00:00:00	Test Mod/Tags for minecraft:item
 8a92360354eeab24c4425c95e58cef05552100d0 data/testmod/tags/item/bronze_repair.json
+e226c46b1d174a01e241b3ab3021db1a38ebaf97 data/testmod/tags/item/high_steel_repair.json
+cd33308d085a6e34171d4032ba606c2f30fe148f data/testmod/tags/item/steel_repair.json
