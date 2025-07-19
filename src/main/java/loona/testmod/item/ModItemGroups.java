@@ -19,6 +19,10 @@ public class ModItemGroups {
                     .displayName(Text.translatable("itemgroup.testmod.bronze_ingot_items"))
                     .entries((displayContext, entries) -> {
                         entries.add(ModItems.BRONZE_INGOT);
+                        entries.add(ModItems.BRONZE_HELMET);
+                        entries.add(ModItems.BRONZE_CHESTPLATE);
+                        entries.add(ModItems.BRONZE_LEGGINGS);
+                        entries.add(ModItems.BRONZE_BOOTS);
                         entries.add(ModItems.BRONZE_SWORD);
                         entries.add(ModItems.BRONZE_PICKAXE);
                         entries.add(ModItems.BRONZE_AXE);
@@ -33,8 +37,17 @@ public class ModItemGroups {
                         entries.add(ModItems.STEEL_AXE);
                         entries.add(ModItems.STEEL_SHOVEL);
                         entries.add(ModItems.STEEL_HOE);
+                        entries.add(ModItems.STEEL_HELMET);
+                        entries.add(ModItems.STEEL_CHESTPLATE);
+                        entries.add(ModItems.STEEL_LEGGINGS);
+                        entries.add(ModItems.STEEL_BOOTS);
                         entries.add(ModBlocks.HIGH_IRON_ORE);
                         entries.add(ModItems.RAW_HIGH_IRON);
+                        entries.add(ModItems.HIGH_IRON_INGOT);
+                        entries.add(ModItems.HIGH_IRON_HELMET);
+                        entries.add(ModItems.HIGH_IRON_CHESTPLATE);
+                        entries.add(ModItems.HIGH_IRON_LEGGINGS);
+                        entries.add(ModItems.HIGH_IRON_BOOTS);
                         entries.add(ModItems.HIGH_STEEL_INGOT);
                         entries.add(ModItems.HIGH_STEEL_SWORD);
                         entries.add(ModItems.HIGH_STEEL_PICKAXE);

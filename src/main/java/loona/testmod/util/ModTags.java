@@ -26,6 +26,7 @@ public class ModTags {
         }
         public static final TagKey<Item> BRONZE_REPAIR = createTag("bronze_repair");
         public static final TagKey<Item> STEEL_REPAIR = createTag("steel_repair");
+        public static final TagKey<Item> HIGH_IRON_REPAIR = createTag("high_iron_repair");
         public static final TagKey<Item> HIGH_STEEL_REPAIR = createTag("high_steel_repair");
 
 

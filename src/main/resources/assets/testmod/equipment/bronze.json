@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "testmod:bronze"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "testmod:bronze"
+      }
+    ]
+  }
+}
